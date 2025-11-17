@@ -5,12 +5,21 @@
 ### <div align="center">I'm Prasun, a full-time full-stack developer 👨‍💻🚀</div>  
   
   
+- 🎓 Final-year Electronics & Communication Engineering (ECE) student @NSUT with strong foundations in electronic circuits, digital systems, and embedded technologies.
 
-- 🌱 I’m currently learning DevOps
-  
+- 💻 Skilled in C++, JavaScript, React.js, Node.js, Express.js, MongoDB, and the MERN stack for full-stack web development.
 
-- ❓ Ask me about anything related to C++ and OS
-  
+- 🔌 Hands-on experience with Arduino, microcontrollers, sensors, and interfacing circuits, bridging the gap between hardware and software.
+
+- 🐳 Worked extensively with Docker, containerized deployments, and cloud platforms like AWS EC2 and AWS Elastic Beanstalk.
+
+- 🛠 Strong understanding of circuit theory, digital electronics, microprocessors, communication systems, and embedded programming.
+
+- 🌐 Passionate about building scalable full-stack apps, cloud-native systems, and IoT-enabled hardware–software projects.
+
+- 🚀 Quick learner who enjoys solving real-world engineering problems through a mix of electronics, algorithms, and clean software design.
+
+- 🤝 Love working on impactful projects that combine hardware, software, and cloud technologies.
 
 - ⚡ Fun fact: I use tabs over spaces  
   
